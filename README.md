@@ -1,2 +1,5 @@
-Status: Online
-Date: Feb 19, 2026
+A modern, responsive frontend clone of the GoodShort short-drama platform, built for seamless vertical video streaming on the web.
+
+https://reelapi.it.com/docs/goodshort
+https://t.me/reelapibot
+
