@@ -4,7 +4,7 @@ import { config } from 'dotenv'
 config()
 
 const app = express()
-const API_URL = process.env.API_URL || 'https://reelapi.it.com/goodshort/api/v1'
+const API_URL = process.env.API_URL || 'https://captain.sapimu.au/goodshort/api/v1'
 const TOKEN = process.env.AUTH_TOKEN
 
 app.get('/api/home', async (req, res) => {
